@@ -1,4 +1,4 @@
-# Fermat factorization
+# Fermat Factorization Method
 def isqrt(n):
     x = n
     y = (x + n // x) // 2
